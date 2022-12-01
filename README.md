@@ -1,6 +1,6 @@
 ## Oi, sou Marcelo Dias
 
-📚 Estudando  
+
 
 <div align="center">
   <a href="https://github.com/marcelodias90">
